@@ -6,7 +6,7 @@ Every point has two coordinates:
 * x - superheroe costume price  
 * y - number of comic book issues in which superhero appeared
 
-#How to run the code
+# How to run the code
 1. Download Octave: https://www.gnu.org/software/octave/
 
 2. To build linear regression model for this data set run in your Octave environment:
